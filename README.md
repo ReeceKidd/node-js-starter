@@ -1,4 +1,4 @@
-# Streakr-server
+# Node starter project for coding tests
 
 Node JS Typescript starter project
 
@@ -9,4 +9,3 @@ NODE_ENV=
 PORT=
 
 DATABASE_URI=
-
